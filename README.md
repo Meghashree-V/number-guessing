@@ -1,4 +1,4 @@
-# Number Guessing Game (Rust)
+# Number Guessing Game using Rust
 
 This is a simple command-line number guessing game implemented in Rust. The game demonstrates fundamental Rust concepts such as variables, input/output, loops, conditionals, external crates, and random number generation.
 
